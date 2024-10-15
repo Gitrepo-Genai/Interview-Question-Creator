@@ -1,2 +1,14 @@
 python-dotenv
 langchain
+langchain-community
+langchain-core
+openai
+pypdf
+tiktoken
+aiofiles
+fastapi
+uvicorn
+jinja2
+python-mutipart
+PyPDF2
+faiss-cpu
